@@ -1,1 +1,1 @@
-# Seagate-Hackathon
+# React-Native-Practice
